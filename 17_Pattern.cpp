@@ -5,6 +5,7 @@ using std::cin;
 using std::endl;
 
 /*
+
 Enter number :  5
 
     * * * * *
@@ -12,6 +13,7 @@ Enter number :  5
   * * * * *
  * * * * *
 * * * * *
+
 */
 
 int main(void)

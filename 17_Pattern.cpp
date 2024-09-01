@@ -28,10 +28,8 @@ int main(void)
 	{
 		for(int iCounter1 = 1;iCounter1 <= iNo-iCounter;iCounter1++)
 			cout <<" ";
-
 		for(int iCounter2 = 1;iCounter2 <= iNo; iCounter2++)
 			cout << "* ";
-
 		cout << endl;
 	}
 
